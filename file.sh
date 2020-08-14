@@ -2,3 +2,4 @@
 
 pwd
 ifconfig
+echo 1
